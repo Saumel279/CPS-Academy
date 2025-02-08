@@ -1,1 +1,0 @@
-https://vjudge.net/problem/AtCoder-abc304_b
